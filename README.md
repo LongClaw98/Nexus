@@ -36,8 +36,9 @@ Instead of spreading work across multiple places, this space will act as a **sin
 
 ### 🔹 Other Explorations
 
--->
 
 - **[Project Name](link-to-project)** – Any other experimental or learning-based work.  
 
 ---
+
+-->
